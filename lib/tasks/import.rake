@@ -1,3 +1,5 @@
+require 'csv'
+
 namespace :import do
   desc "Import merchants from CSV file"
 
